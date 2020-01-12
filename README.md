@@ -10,6 +10,6 @@ Some code to download this file from github.
 
 ```r
 curl::curl_download(
-  "https://github.com/tjmahr/refdocx/raw/master/ref.docx",
+  "https://github.com/jvcasillas/refdocx/raw/master/tenure_ref.docx",
   "ref.docx")
 ```
